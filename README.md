@@ -10,7 +10,7 @@ Natively, shopify does not handle file uploads, so I was tasked with developing 
 #### Example snippet of customer submission sent to Shopify Admin/Merchant
 ![An example of contact form submission](https://cdn.discordapp.com/attachments/863254730113417277/1087462704790372403/image.png)
 
-![An example of the generated resource that company admin can view](https://cdn.discordapp.com/attachments/863254730113417277/1087463742012391534/image.png)
+![An example of the generated resource that company admin can view](https://cdn.discordapp.com/attachments/863254730113417277/1087473760501760121/image.png)
 
 ## Where is it?
 -This script is deployed to clients VPS (similar to dedicated server)  
