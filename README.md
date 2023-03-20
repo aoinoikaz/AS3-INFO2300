@@ -5,7 +5,7 @@ My in real life client manufactures and sells vape products (they are one of the
 
 ## What is it?
 
-Natively, shopify does not handle file uploads, so I was tasked with developing a solution to allow customers to upload their identification when they signup for a wholesale account. Customers fill out the wholesale form, and can choose to upload their images. It will then send those images to this php backend, which will encrypt, process and store the images. Then a URL to the image resource will be generated and sent back in the response to the front end for use. The front end will take the URL and pass it into the shopify contact submission (which is sent to shopify merchant emails). 
+Natively, shopify does not handle file uploads, so I was tasked with developing a solution to allow customers to upload their identification when they signup for a wholesale account. Customers fill out the wholesale form, and can choose to upload their images. It will then send those images to this php backend, which will encrypt, process and store the images. Then a URL to the image resource will be generated and sent back in the response to the front end for use. The front end will take the URL and pass it into the shopify contact submission (which is sent to shopify merchant emails). For propietary reasons, I will only post the image upload logic in repository. 
 
 #### Example snippet of customer submission sent to Shopify Admin/Merchant
 ![An example of contact form submission](https://cdn.discordapp.com/attachments/863254730113417277/1087462704790372403/image.png)
