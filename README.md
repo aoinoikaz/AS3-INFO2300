@@ -20,3 +20,7 @@ Natively, shopify does not handle file uploads, so I was tasked with developing 
 -"OVH" hosting company  
 
 This is currently live in production (beta) and can be viewed here: https://thedistro.ca/pages/whole-sale
+
+## Road Map & Fixes
+-Use Jira to handle backlog of items  
+-Improvements to server side validation and front end UX
