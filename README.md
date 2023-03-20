@@ -13,10 +13,10 @@ Natively, shopify does not handle file uploads, so I was tasked with developing 
 ![An example of the generated resource that company admin can view](https://cdn.discordapp.com/attachments/863254730113417277/1087463742012391534/image.png)
 
 ## Where is it?
--This script is deployed to clients VPS (similar to dedicated server)
--RDP access
--I had to configure and setup specific authorization and security on server
--IIS web server
--"OVH" hosting company
+-This script is deployed to clients VPS (similar to dedicated server)  
+-RDP access  
+-I had to configure and setup specific authorization and security on server  
+-IIS web server  
+-"OVH" hosting company  
 
 This is currently live in production (beta) and can be viewed here: https://thedistro.ca/pages/whole-sale
